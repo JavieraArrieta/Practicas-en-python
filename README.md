@@ -1,4 +1,5 @@
 # Practicas-en-python
+<<<<<<< HEAD
 Aqui  subo mis practicas de logica en python diarias.
 
 EJERCICIO 1: Redondeo de decimales.
