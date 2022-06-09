@@ -20,5 +20,14 @@ EJERCICIO 8: Mostras en que posicion aparecen las 'n'. </br>
 
 EJERCICIO 9: Ordenar diccionario por clave o valor. Importando operator. </br>
 
-EJERCICIO 10: Multiplicar los elementos de una lista por dos. Usando la funcion lambda().
+EJERCICIO 10: Multiplicar los elementos de una lista por dos. Usando la funcion lambda(). </br>
+
+EJERCICIO 11: Distancia entre 2 puntos.</br>
+
+EJERCICIO 12: Area por radio y Area por puntos.</br>
+
+EJERCICIO 13: Pendiente, Ordenada al Origen y Funcion.</br>
+
+
+
 
